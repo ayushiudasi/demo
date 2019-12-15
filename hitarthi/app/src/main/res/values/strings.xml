@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="string">OPEN DATE PICKER</string>
+    <string name="string2">DATE</string>
+    <string name="button">Button</string>
+    <string name="Set_Reminder">string2</string>
+    <string name="set_reminder">SET REMINDER</string>
+    <string name="action_settings">Settings</string>
+</resources>
